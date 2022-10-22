@@ -58,6 +58,7 @@ body {
 }
 .link {
   text-decoration: none;
+  color: var(--primary-black-color);
 }
 
 .container {
@@ -124,7 +125,6 @@ body {
   display: block;
   padding-top: 32px;
   padding-bottom: 32px;
-  color: var(--primary-black-color);
 }
 
 .header-connect {
